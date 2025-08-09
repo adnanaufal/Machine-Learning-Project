@@ -56,4 +56,14 @@ This course explores **unlabeled data**, **recommender systems**, and **reinforc
 
 ---
 
-## 🛠️ Technologies & Tool
+## 🛠️ Technologies & Tools Used
+
+- **Programming Language**: Python
+- **Environment**: Jupyter Notebook
+- **Libraries**:
+  - 🔢 **NumPy** — Efficient numerical computation
+  - 📊 **Matplotlib** — Data visualization
+  - 🤖 **Scikit-learn** — Classic ML models
+  - 🧠 **TensorFlow** — Deep Learning models
+
+---
